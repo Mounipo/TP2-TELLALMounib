@@ -1,4 +1,5 @@
-print("hello world!")
+message1 = "hello world!"
+message2 = "hi !"
 
-
-print("hi !")
+print(message1)
+print(message2)
